@@ -1,7 +1,11 @@
 
 public class Merge {
-	public static int[] merge(int[]list1, int[]list2)
-	{
+	public static String[] merge(String[]list1, int[]list2)
+	{		
+		
+		
+		
+		
 		return null;
 	}
 }
