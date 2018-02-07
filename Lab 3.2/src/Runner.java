@@ -1,10 +1,35 @@
+import java.util.Arrays;
 
 public class Runner 
 {
 	public static void main(String[] args)
 	{
-		int[] list1 = {A,B,C,D,E,F};
-		int[] list2 = {1,3,5,7,9,11};
+		String[] list1 = {A,B,C,D,E,F};
+		String[] list2 = {G,H,I,J,K,L};
+		public static String[] merge(String[]list1, String[]list2)
+			{		
+				
+				
+				
+				
+				
+			}
+
+		
+		
+		
+		
+	}
+	public static String[] merge(String[]list1, String[]list2)
+	{		
+		
+		
+		return list3;		
+	}
+	
+	public static int partition(int[] list)
+	{
+		return (Integer) null;
 
 	}
 
