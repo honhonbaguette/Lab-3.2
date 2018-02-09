@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArrayMethod2 
+public class ArrayMethods2 
 {
 	public static void main(String[] args)
 	{
@@ -17,7 +17,7 @@ public class ArrayMethod2
 		int x = 0;
 		int y = 0;
 		int z = 0;
-		while (x < list1.length && y < list2.length) 
+		while ((x < list1.length) && (y < list2.length)) 
 	      {
 	           if (list1[z].compareTo(list2[y]) < 0) 
 	           {
